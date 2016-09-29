@@ -1,9 +1,10 @@
 FROM mhart/alpine-node:latest
 MAINTAINER Ryan Kes <ryan@andthensome.nl>
 
-# Install pygments (for syntax highlighting)
+# Install bash (for wercker)
 RUN apk update && apk add bash && rm -rf /var/cache/apk/*
 
+# Install wkthml2pdf
 RUN apk add --no-cache \
             xvfb \
             # Additionnal dependencies for better rendering
