@@ -1,4 +1,4 @@
-[![](https://images.microbadger.com/badges/image/andthensome/alpine-hackmyresume-bash.svg)](http://microbadger.com/images/andthensome/alpine-hackmyresume-bash "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/andthensome/alpine-hackmyresume-bash.svg)](http://microbadger.com/images/andthensome/alpine-hackmyresume-bash "Get your own version badge on microbadger.com")
+[![Latest release][img-release]][latest-release] [![](https://images.microbadger.com/badges/image/andthensome/alpine-hackmyresume-bash.svg)](http://microbadger.com/images/andthensome/alpine-hackmyresume-bash "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/andthensome/alpine-hackmyresume-bash.svg)](http://microbadger.com/images/andthensome/alpine-hackmyresume-bash "Get your own version badge on microbadger.com")
 
 # Docker Alpine Hackmyresume Bash
 
